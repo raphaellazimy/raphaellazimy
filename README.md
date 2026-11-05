@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Raphael 👋
 
-<!--
-**rlazimy-lang/rlazimy-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & Business student at Albert School × Mines Paris – PSL, former exchange student at UC Berkeley.
+Interested in data science and AI.
 
-Here are some ideas to get you started:
+### Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[RectoVerso](https://github.com/msamuel-glitch/Prompt-Engineering-Project)**: turns long course PDFs and slides into editable study sheets with flashcards, each section citing the page it comes from.
+`Python` `FastAPI` `Claude API` `React` `TypeScript`
+
+### Contact
+
+[LinkedIn](https://linkedin.com/in/raphaellazimy)
